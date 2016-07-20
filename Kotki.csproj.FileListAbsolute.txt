@@ -1,0 +1,13 @@
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\bin\Debug\Kotki.exe.config
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\bin\Debug\Kotki.exe
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\bin\Debug\Kotki.pdb
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.Properties.Resources.resources
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.csproj.GenerateResource.Cache
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.exe
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.pdb
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.MENU.resources
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.YourCat.resources
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.ChooseCat.resources
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.AddCat.resources
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.csprojResolveAssemblyReference.cache
+D:\StudiaII\AkademiaC\zaliczenie\Kotki\Kotki\obj\Debug\Kotki.Ecnyclopedia.resources
